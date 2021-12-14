@@ -1,5 +1,5 @@
-# The Natural Number Game
-https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
+# The Natural Number Game By Kevin Buzzard and Mohammad Pedramfar
+source: https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
 
 ## What is this game?
 Welcome to the natural number game -- a part-book part-game which shows the power of induction. Blue nodes on the graph are ones that you are ready to enter. Grey nodes you should stay away from -- a grey node turns blue when all nodes above it are complete. Green nodes are completed. (Actually you can try any level at any time, but you might not know enough to complete it if it's grey).
